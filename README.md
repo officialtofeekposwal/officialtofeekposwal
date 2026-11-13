@@ -40,11 +40,12 @@ Mobile systems engineer focused on high-performance native Android apps that res
 | :-- | :-- |
 | **Platform** | Native Android · Min SDK 26 · Target SDK 35 (Android 15) |
 | **Package** | `com.poswal.noor` |
-| **Release** | v1.0.0 · Public · MIT License |
-| **Stack** | Kotlin · Jetpack Compose · Jetpack Glance · Material 3 · Room (SQLite) |
+| **Release** | v1.1.0 · Public · MIT License |
+| **Stack** | Kotlin · Jetpack Compose · Jetpack Glance · Material 3 · Room (SQLite) · Liquid Glass |
 
 **Highlights**
 
+- **Apple-Inspired Liquid Glass UI:** reusable `Modifier.liquidGlass`, frosted cards, tactile buttons, floating navbar & AGSL refraction
 - **Jetpack Glance widgets:** 4x2 and 4x3 interactive layouts with live refresh and deep links
 - **1-tap widget pinning:** direct in-app pin request
 - **5 languages:** English, Hinglish, Hindi, Urdu (RTL), Arabic (RTL)
@@ -52,7 +53,7 @@ Mobile systems engineer focused on high-performance native Android apps that res
 - **Refined UI:** custom segmented pill controls, brand avatar gold ring, OLED dark mode
 
 [![Repository](https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/officialtofeekposwal/PoswalNoor)
-[![Download APK](https://img.shields.io/badge/Download%20APK-v1.0.0%20·%2020.6%20MB-10B981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/officialtofeekposwal/PoswalNoor/releases/download/v1.0.0/PoswalNoor-v1.0.0-debug.apk)
+[![Download APK](https://img.shields.io/badge/Download%20APK-v1.1.0%20·%2020.6%20MB-10B981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/officialtofeekposwal/PoswalNoor/releases/download/v1.1.0/PoswalNoor-v1.1.0-debug.apk)
 
 </td>
 </tr>
