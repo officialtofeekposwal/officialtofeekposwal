@@ -7,7 +7,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-officialtofeekposwal-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/officialtofeekposwal)
-[![Email](https://img.shields.io/badge/Email-tofeekposwal@gmail.com-047857?style=flat-square&logo=gmail&logoColor=white)](mailto:tofeekposwal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-workwithtofeek@gmail.com-047857?style=flat-square&logo=gmail&logoColor=white)](mailto:workwithtofeek@gmail.com)
 [![Poswal Noor](https://img.shields.io/badge/Flagship-Poswal%20Noor-10B981?style=flat-square&logo=android&logoColor=white)](https://github.com/officialtofeekposwal/PoswalNoor)
 ![Status](https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collabs-34D399?style=flat-square)
 
@@ -111,7 +111,7 @@ Mobile systems engineer focused on high-performance native Android apps that res
 
 **Let's build something that works offline and respects its users.**
 
-[tofeekposwal@gmail.com](mailto:tofeekposwal@gmail.com)
+[workwithtofeek@gmail.com](mailto:workwithtofeek@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10B981,50:047857,100:0F172A&section=footer" width="100%" alt="" />
 
