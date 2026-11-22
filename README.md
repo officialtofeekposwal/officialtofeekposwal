@@ -23,19 +23,19 @@
 <tr>
 <td width="60%" valign="top">
 
-🔭 **Currently Building**
+🔭 **Currently Building**  
 [**Poswal Orbit**](https://github.com/officialtofeekposwal/poswal-orbit) & [**Poswal Noor**](https://github.com/officialtofeekposwal/PoswalNoor)
 
-🌱 **Learning & Exploring**
+🌱 **Learning & Exploring**  
 Low-level Android systems, Kotlin 2.x & High-Performance Dart
 
-💬 **Ask Me About**
+💬 **Ask Me About**  
 Flutter, Android, Dart, Kotlin, SQLite, Local Architecture & State Management
 
-📫 **Reach Me**
+📫 **Reach Me**  
 [workwithtofeek@gmail.com](mailto:workwithtofeek@gmail.com)
 
-⚡ **Fun Fact**
+⚡ **Fun Fact**  
 I build apps that run 100% offline, without even asking for internet permission!
 
 </td>
