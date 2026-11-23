@@ -1,162 +1,121 @@
-<div align="center">
-
-<img src="./assets/hero.svg" width="100%" alt="Tofeek Poswal - animated orbit banner" />
-
-<a href="https://github.com/officialtofeekposwal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+apps+that+work+100%25+offline+%F0%9F%93%B4;Flutter+%E2%80%A2+Dart+%E2%80%A2+Kotlin+%E2%80%A2+SQLite;Zero+trackers.+Zero+bloat.+Full+privacy.;Local+device+%3D+the+primary+database+%F0%9F%9A%80" alt="Typing animation" />
-</a>
-
-<br/><br/>
-
-![Views](https://komarev.com/ghpvc/?username=officialtofeekposwal&label=Profile%20Views&color=7c3aed&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/officialtofeekposwal?style=for-the-badge&logo=github&color=0ea5e9&labelColor=0b1020)
-![Stars](https://img.shields.io/github/stars/officialtofeekposwal?style=for-the-badge&logo=github&color=f59e0b&labelColor=0b1020)
-![Made in India](https://img.shields.io/badge/Made%20in-India%20%F0%9F%87%AE%F0%9F%87%B3-22c55e?style=for-the-badge&labelColor=0b1020)
-
-</div>
-
----
-
-## ⚡ About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-🔭 **Currently Building**  
-[**Poswal Orbit**](https://github.com/officialtofeekposwal/poswal-orbit) & [**Poswal Noor**](https://github.com/officialtofeekposwal/PoswalNoor)
-
-🌱 **Learning & Exploring**  
-Low-level Android systems, Kotlin 2.x & High-Performance Dart
-
-💬 **Ask Me About**  
-Flutter, Android, Dart, Kotlin, SQLite, Local Architecture & State Management
-
-📫 **Reach Me**  
-[workwithtofeek@gmail.com](mailto:workwithtofeek@gmail.com)
-
-⚡ **Fun Fact**  
-I build apps that run 100% offline, without even asking for internet permission!
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://github-readme-stats.vercel.app/api?username=officialtofeekposwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=330" alt="GitHub Stats" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/officialtofeekposwal/poswal-orbit">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=officialtofeekposwal&repo=poswal-orbit&theme=tokyonight&hide_border=true&border_radius=12" alt="Poswal Orbit" />
-</a>
-<a href="https://github.com/officialtofeekposwal/PoswalNoor">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=officialtofeekposwal&repo=PoswalNoor&theme=tokyonight&hide_border=true&border_radius=12" alt="Poswal Noor" />
-</a>
-
-</div>
-
-| Project | What it is | Stack | Status |
-| :-- | :-- | :-- | :-: |
-| 🪐 [**Poswal Orbit**](https://github.com/officialtofeekposwal/poswal-orbit) | Offline-first daily productivity OS (Habits, Tasks, Notes) with 100% local SQLite and **184 passing tests** | `Flutter` `Dart` `SQLite` `Riverpod` | 🟢 Active |
-| 🌙 [**Poswal Noor**](https://github.com/officialtofeekposwal/PoswalNoor) | Privacy-first offline Islamic utility app with precise offline prayer calculations and zero trackers | `Flutter` `Clean Architecture` | 🟢 Active |
-
----
-
-## 🧠 Core Engineering Principles
-
-<div align="center">
-
-| 📴 Offline-First | 🧪 Test-Driven | ⚡ Zero-Bloat |
-| :-: | :-: | :-: |
-| The local device is the primary database. User data is never trapped. | Strict unit and widget tests before anything ships. | Native speed, minimal dependencies, clean architecture. |
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**📱 Mobile & Languages**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,py,ts,js,cpp&theme=dark" alt="Mobile & Languages" />
-
-**🎨 Frontend & UI**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma&theme=dark" alt="Frontend" />
-
-**🗄️ Backend, Databases & DevOps**
-
-<img src="https://skillicons.dev/icons?i=sqlite,postgres,redis,nodejs,express,fastapi,firebase,docker,bash,linux,git&theme=dark" alt="Backend" />
-
-</div>
-
----
-
-## 🌐 My Contributions in 3D
-
-<div align="center">
-
-<!-- Generated automatically by the GitHub Action in .github/workflows/profile-3d.yml -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
+<h1 align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/officialtofeekposwal/officialtofeekposwal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/officialtofeekposwal/officialtofeekposwal/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/officialtofeekposwal/officialtofeekposwal/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+<img src="assets/hero-light.svg" alt="Tofeek Poswal. Offline-first Android apps. Your data belongs on your device." width="100%">
 </picture>
+</h1>
 
-</div>
+<p align="center">
+I build offline-first Android apps that keep your data on your device.
+</p>
 
----
+<p align="center">
+<a href="https://github.com/officialtofeekposwal?tab=followers"><img src="https://img.shields.io/github/followers/officialtofeekposwal?style=flat&color=14B8A6&labelColor=0F1626" alt="GitHub followers"></a>
+<a href="https://github.com/officialtofeekposwal/poswal-orbit/stargazers"><img src="https://img.shields.io/github/stars/officialtofeekposwal/poswal-orbit?style=flat&label=Orbit%20stars&color=8B7CFF&labelColor=0F1626" alt="Poswal Orbit stars"></a>
+<a href="https://github.com/officialtofeekposwal/PoswalNoor/stargazers"><img src="https://img.shields.io/github/stars/officialtofeekposwal/PoswalNoor?style=flat&label=Noor%20stars&color=FFC857&labelColor=0F1626" alt="Poswal Noor stars"></a>
+</p>
 
-## 📊 Stats & Activity
+<p align="center">
+<a href="#about">About</a> ·
+<a href="#projects">Projects</a> ·
+<a href="#stack">Stack</a> ·
+<a href="#how-i-work">How I work</a> ·
+<a href="#contact">Contact</a>
+</p>
 
-<div align="center">
+## About
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=officialtofeekposwal&theme=tokyonight&hide_border=true" alt="Streak" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialtofeekposwal&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+I make Android apps that work without an account and without a network. My two main projects are Poswal Orbit, a habit, task and note app, and Poswal Noor, an offline Islamic reference app. Both store everything on the phone.
 
-<br/>
+I am currently building both of them, and learning Android system internals and Kotlin 2.x.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=officialtofeekposwal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
+Ask me about Flutter, Dart, Kotlin, Android, SQLite, local-first design and state management.
 
-<br/>
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=officialtofeekposwal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+## Projects
 
-</div>
+### Poswal Orbit
 
----
+<a href="https://github.com/officialtofeekposwal/poswal-orbit"><img src="assets/card-orbit.svg" alt="Poswal Orbit: habits, tasks, notes. Illustration of the app logo with a small planet circling it." width="100%"></a>
 
-## 🤝 Let's Connect
+Habits, tasks and notes in one offline Android app. Habits are the inner orbit, tasks the outer one, and notes hold the day together.
 
-<div align="center">
+- Built with Flutter and Dart. State is handled with Riverpod and data is stored with Drift (SQLite).
+- The day starts at 4:00 AM by default, so a check-in after midnight counts for the day before.
+- Habits have a consistency score and an optional streak freeze. Tasks accept plain sentences such as "Pay rent tomorrow 4pm".
+- English, Hindi and Urdu, with a right-to-left layout and bundled fonts.
+- No accounts and no analytics. Release builds do not request the `INTERNET` permission. Debug and CI test builds may.
+- Automated tests run in CI. Text colors are tested for WCAG AA contrast.
 
-<a href="mailto:workwithtofeek@gmail.com"><img src="https://img.shields.io/badge/Email-workwithtofeek%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/officialtofeekposwal"><img src="https://img.shields.io/badge/GitHub-officialtofeekposwal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://instagram.com/officialtofeekposwal"><img src="https://img.shields.io/badge/Instagram-officialtofeekposwal-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+**Status.** Android builds are made by CI. Verification on real phones is in progress. iOS code is written but not verified, because I have no Mac. It is not on the Play Store. To try it, follow the [CI debug build steps](https://github.com/officialtofeekposwal/poswal-orbit/blob/main/docs/INSTALL_DEBUG_APK.md).
 
-<br/><br/>
+[Repository](https://github.com/officialtofeekposwal/poswal-orbit) · MIT license
 
-<i>"Your data belongs on your device." 📴</i>
+### Super Apple Design
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<a href="https://github.com/officialtofeekposwal/super-apple-design"><img src="assets/card-super-apple-design.svg" alt="Super Apple Design: a skill pack for AI tools. Illustration of four stacked panes lifting one after another." width="100%"></a>
 
-</div>
+A set of instructions for AI coding tools. A skill is a Markdown file that a tool such as Claude Code or Cursor reads before it starts work.
+
+- Two skills: `apple-design-universal`, design rules rewritten in my own words from Apple's Human Interface Guidelines, and `design-workflow`, a four-phase routine of direction, build, test and review.
+- A Cursor rule file, and an `AGENTS.md` file for Codex and Windsurf.
+- An install script that copies the skills into the right folder for each tool. With `--with-upstream` it also clones seven skills from their original authors. Their code is not copied into this repository.
+- Not affiliated with Apple. No tagged release yet.
+
+[Repository](https://github.com/officialtofeekposwal/super-apple-design) · MIT license
+
+### Poswal Noor
+
+<a href="https://github.com/officialtofeekposwal/PoswalNoor"><img src="assets/card-noor.svg" alt="Poswal Noor: an offline Islamic app. Illustration of a compass with a swinging needle and a crescent moon." width="100%"></a>
+
+An offline Islamic reference app for Android, written in Kotlin with Jetpack Compose and Material 3.
+
+- The Quran: 6,236 ayahs in 114 surahs, in Arabic with English, Hindi and Urdu translations.
+- Hadith: 14,060 records from Sahih al-Bukhari and Sahih Muslim.
+- Prayer times are calculated on the device for a built-in list of 38 cities, with a standard or Hanafi Asr setting. The Qibla compass uses the phone's rotation sensor.
+- Dhikr and tasbih tools, a Hijri calendar and home screen widgets.
+- The app's own manifest declares no permissions, so it does not request `INTERNET`.
+- `DATA_SOURCES.md` lists where each text comes from and its license. A few items are marked unverified there.
+
+[Repository](https://github.com/officialtofeekposwal/PoswalNoor) · MIT license
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+## Stack
+
+<img src="assets/stack.svg" alt="Eight chips: Flutter, Dart, Kotlin, Compose, Riverpod, Drift, Room and Actions (GitHub Actions). The same list is written out below." width="100%">
+
+These are the technologies that appear in the three repositories above.
+
+- **Flutter and Dart:** Poswal Orbit.
+- **Kotlin and Jetpack Compose:** Poswal Noor. Orbit's Android widget code is also Kotlin.
+- **Riverpod:** state management in Orbit.
+- **Drift and Room:** SQLite access in Orbit and Noor.
+- **GitHub Actions:** build, test and release workflows in Orbit.
+
+<details>
+<summary>Also in these repositories</summary>
+
+- Hilt, Paging 3 and Glance in Noor.
+- go_router and home_widget in Orbit.
+- Python scripts that build Noor's content database.
+- Swift in Orbit's iOS widget code. It has not been verified on a device.
+
+</details>
+
+## How I work
+
+- **Keep data on the device.** Both apps store everything locally and work without a network.
+- **Test the logic that matters.** In Orbit, streaks, scores, schedules and quick add are plain Dart with automated tests, run in CI.
+- **Say what is verified.** Orbit's repository states plainly that iOS has not been verified.
+- **Keep the interface calm.** Sentence-case text, no emoji in the app, and support for reduced motion.
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+## Contact
+
+- GitHub: [officialtofeekposwal](https://github.com/officialtofeekposwal)
+- Questions or bugs: open an issue on [Poswal Orbit](https://github.com/officialtofeekposwal/poswal-orbit/issues) or [Poswal Noor](https://github.com/officialtofeekposwal/PoswalNoor/issues)
+- Email: [workwithtofeek@gmail.com](mailto:workwithtofeek@gmail.com)
+- Instagram: [officialtofeekposwal](https://instagram.com/officialtofeekposwal)
